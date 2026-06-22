@@ -126,7 +126,7 @@ source install/setup.bash
 
 <div align="center">
 
-**Made with ❤️ by AVATAR Team**
+**Made with by AVATAR Team**
 
 *Human Arm Pose → Robot Arm Control*
 
