@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from jeju/srv/MapLoad.srv
+// generated code does not contain a copyright notice
+
+
+module jeju {
+  module srv {
+    struct MapLoad_Request {
+      string request;
+    };
+    struct MapLoad_Response {
+      string response;
+    };
+  };
+};

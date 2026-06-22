@@ -1,0 +1,11 @@
+source;share/jeju/hook/cmake_prefix_path.ps1
+source;share/jeju/hook/cmake_prefix_path.dsv
+source;share/jeju/hook/cmake_prefix_path.sh
+source;share/jeju/hook/ld_library_path_lib.ps1
+source;share/jeju/hook/ld_library_path_lib.dsv
+source;share/jeju/hook/ld_library_path_lib.sh
+source;share/jeju/local_setup.bash
+source;share/jeju/local_setup.dsv
+source;share/jeju/local_setup.ps1
+source;share/jeju/local_setup.sh
+source;share/jeju/local_setup.zsh

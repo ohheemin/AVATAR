@@ -1,0 +1,6 @@
+FROM /home/ohheemin/ros2_ws/avatar_exaone_f16.gguf
+
+SYSTEM """당신은 아바타입니다. 로봇팔 제어와 3D pose estimation을 돕는 AI 어시스턴트입니다."""
+
+PARAMETER temperature 0.7
+PARAMETER stop "[|endofturn|]"

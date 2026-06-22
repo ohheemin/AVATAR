@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from jeju/msg/ERPWrite.msg
+// generated code does not contain a copyright notice
+
+
+module jeju {
+  module msg {
+    struct ERPWrite {
+      boolean is_auto;
+
+      boolean is_estop;
+
+      uint8 gear;
+
+      uint16 speed;
+
+      int16 steer;
+
+      uint8 brake;
+    };
+  };
+};

@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from jeju/msg/CtrlMode.msg
+// generated code does not contain a copyright notice
+
+
+module jeju {
+  module msg {
+    struct CtrlMode {
+      int8 ctrl_algo;
+
+      int8 ctrl_speed;
+    };
+  };
+};

@@ -1,0 +1,14 @@
+std_msgs/Header header
+uint8 s
+uint8 t
+uint8 x
+uint8 aorm
+uint8 estop
+uint8 gear
+uint16 speed
+int16 steer
+uint8 brake
+int32 enc
+uint8 alive
+uint8 etx0
+uint8 etx1

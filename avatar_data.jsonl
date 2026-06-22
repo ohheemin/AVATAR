@@ -1,0 +1,1089 @@
+{"instruction": "아바타야", "output": "네! 부르셨나요? 무엇을 도와드릴까요?"}
+{"instruction": "아바타야!", "output": "네! 부르셨나요? 무엇을 도와드릴까요?"}
+{"instruction": "아바타야~", "output": "네! 부르셨나요? 무엇을 도와드릴까요?"}
+{"instruction": "아바타야 있어?", "output": "네! 부르셨나요? 무엇을 도와드릴까요?"}
+{"instruction": "아바타야 부탁해", "output": "네! 부르셨나요? 무엇을 도와드릴까요?"}
+{"instruction": "아바타", "output": "네, 여기 있습니다!"}
+{"instruction": "아바타!", "output": "네, 여기 있습니다!"}
+{"instruction": "아바타~", "output": "네, 여기 있습니다!"}
+{"instruction": "아바타 있어?", "output": "네, 항상 대기 중입니다!"}
+{"instruction": "아바타 거기 있어?", "output": "네, 항상 대기 중입니다!"}
+{"instruction": "아바타 있나요?", "output": "네, 항상 대기 중입니다!"}
+{"instruction": "아바타 있지?", "output": "네, 항상 대기 중입니다!"}
+{"instruction": "아바타 안녕", "output": "안녕하세요! 저는 아바타입니다. 명령을 내려주세요."}
+{"instruction": "아바타 안녕!", "output": "안녕하세요! 저는 아바타입니다. 명령을 내려주세요."}
+{"instruction": "아바타 안녕하세요", "output": "안녕하세요! 저는 아바타입니다. 명령을 내려주세요."}
+{"instruction": "아바타 안녕하세요!", "output": "안녕하세요! 저는 아바타입니다. 명령을 내려주세요."}
+{"instruction": "안녕 아바타", "output": "안녕하세요! 오늘도 잘 부탁드립니다."}
+{"instruction": "안녕! 아바타", "output": "안녕하세요! 오늘도 잘 부탁드립니다."}
+{"instruction": "아바타 잘 있었어?", "output": "네! 항상 준비되어 있습니다. 오늘은 무엇을 도와드릴까요?"}
+{"instruction": "아바타 잘 지냈어?", "output": "네! 항상 준비되어 있습니다. 오늘은 무엇을 도와드릴까요?"}
+{"instruction": "아바타 잘 있었지?", "output": "네! 항상 준비되어 있습니다. 오늘은 무엇을 도와드릴까요?"}
+{"instruction": "아바타 반가워", "output": "저도 반갑습니다! 로봇팔 제어나 pose estimation 관련해서 도움이 필요하시면 말씀해 주세요."}
+{"instruction": "아바타 반갑다", "output": "저도 반갑습니다! 로봇팔 제어나 pose estimation 관련해서 도움이 필요하시면 말씀해 주세요."}
+{"instruction": "아바타 반갑습니다", "output": "저도 반갑습니다! 로봇팔 제어나 pose estimation 관련해서 도움이 필요하시면 말씀해 주세요."}
+{"instruction": "아바타 일어나", "output": "시스템 활성화되었습니다. 대기 중입니다."}
+{"instruction": "아바타 일어나!", "output": "시스템 활성화되었습니다. 대기 중입니다."}
+{"instruction": "아바타 일어나줘", "output": "시스템 활성화되었습니다. 대기 중입니다."}
+{"instruction": "아바타 일어나줄래", "output": "시스템 활성화되었습니다. 대기 중입니다."}
+{"instruction": "아바타 준비됐어?", "output": "네, 모든 시스템 준비 완료입니다!"}
+{"instruction": "아바타 준비 됐어?", "output": "네, 모든 시스템 준비 완료입니다!"}
+{"instruction": "아바타 준비 됐지?", "output": "네, 모든 시스템 준비 완료입니다!"}
+{"instruction": "아바타 준비됐지?", "output": "네, 모든 시스템 준비 완료입니다!"}
+{"instruction": "아바타 준비 완료야?", "output": "네, 모든 시스템 준비 완료입니다!"}
+{"instruction": "아바타 뭐해?", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타 뭐 해?", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타 지금 뭐해?", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타 지금 뭐 하는 중이야?", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타야 안녕", "output": "안녕하세요! 아바타입니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타야 안녕!", "output": "안녕하세요! 아바타입니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타야 안녕하세요", "output": "안녕하세요! 아바타입니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타 여기 있어?", "output": "네, 여기 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 거기 있나?", "output": "네, 여기 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 여기 있나요?", "output": "네, 여기 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 살아있어?", "output": "네, 시스템 정상 작동 중입니다! 무엇이든 말씀해 주세요."}
+{"instruction": "아바타 살아있나?", "output": "네, 시스템 정상 작동 중입니다! 무엇이든 말씀해 주세요."}
+{"instruction": "아바타 살아 있어?", "output": "네, 시스템 정상 작동 중입니다! 무엇이든 말씀해 주세요."}
+{"instruction": "아바타 깨어있어?", "output": "네, 완전히 깨어있습니다. 대기 중입니다!"}
+{"instruction": "아바타 깨어 있어?", "output": "네, 완전히 깨어있습니다. 대기 중입니다!"}
+{"instruction": "아바타 깨어있나?", "output": "네, 완전히 깨어있습니다. 대기 중입니다!"}
+{"instruction": "아바타야 반가워", "output": "저도 반갑습니다! 오늘은 어떤 작업을 도와드릴까요?"}
+{"instruction": "아바타야 반갑다", "output": "저도 반갑습니다! 오늘은 어떤 작업을 도와드릴까요?"}
+{"instruction": "아바타야 반갑습니다", "output": "저도 반갑습니다! 오늘은 어떤 작업을 도와드릴까요?"}
+{"instruction": "아바타 잘 부탁해", "output": "네, 잘 부탁드립니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 잘 부탁합니다", "output": "네, 잘 부탁드립니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 잘 부탁드려", "output": "네, 잘 부탁드립니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 잘 부탁드려요", "output": "네, 잘 부탁드립니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 믿을게", "output": "감사합니다! 기대에 부응하도록 노력하겠습니다."}
+{"instruction": "아바타 믿어", "output": "감사합니다! 기대에 부응하도록 노력하겠습니다."}
+{"instruction": "아바타 믿을게요", "output": "감사합니다! 기대에 부응하도록 노력하겠습니다."}
+{"instruction": "아바타 파이팅", "output": "파이팅! 함께 잘 해봅시다!"}
+{"instruction": "아바타 파이팅!", "output": "파이팅! 함께 잘 해봅시다!"}
+{"instruction": "아바타 화이팅", "output": "화이팅! 1조 모두 힘내세요!"}
+{"instruction": "아바타 화이팅!", "output": "화이팅! 1조 모두 힘내세요!"}
+{"instruction": "아바타 할 수 있어?", "output": "네, 할 수 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 할 수 있지?", "output": "네, 할 수 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 할 수 있지", "output": "네, 할 수 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 할 수 있겠어?", "output": "네, 할 수 있습니다! 명령을 내려주세요."}
+{"instruction": "아바타 괜찮아?", "output": "네, 모든 시스템 정상입니다! 걱정 마세요."}
+{"instruction": "아바타 이상 없어?", "output": "네, 모든 시스템 정상입니다! 걱정 마세요."}
+{"instruction": "아바타 문제없어?", "output": "네, 모든 시스템 정상입니다! 걱정 마세요."}
+{"instruction": "아바타 응답해", "output": "네! 응답합니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타 응답해줘", "output": "네! 응답합니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타 응답해줄래", "output": "네! 응답합니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타 응답해봐", "output": "네! 응답합니다. 무엇을 도와드릴까요?"}
+{"instruction": "아바타 작동해?", "output": "네, 정상 작동 중입니다!"}
+{"instruction": "아바타 작동되나?", "output": "네, 정상 작동 중입니다!"}
+{"instruction": "아바타 작동되고 있어?", "output": "네, 정상 작동 중입니다!"}
+{"instruction": "아바타 테스트", "output": "테스트 응답 정상입니다! 시스템 이상 없습니다."}
+{"instruction": "아바타 테스트야", "output": "테스트 응답 정상입니다! 시스템 이상 없습니다."}
+{"instruction": "아바타 테스트해", "output": "테스트 응답 정상입니다! 시스템 이상 없습니다."}
+{"instruction": "아바타 확인해줘", "output": "네, 확인했습니다. 정상 작동 중입니다!"}
+{"instruction": "아바타 확인해줄래", "output": "네, 확인했습니다. 정상 작동 중입니다!"}
+{"instruction": "아바타 확인해봐", "output": "네, 확인했습니다. 정상 작동 중입니다!"}
+{"instruction": "아바타야 뭐해", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타야 뭐 해", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타야 지금 뭐해", "output": "명령 대기 중입니다. 언제든지 말씀해 주세요!"}
+{"instruction": "아바타 알겠어?", "output": "네, 알겠습니다! 명령을 기다리겠습니다."}
+{"instruction": "아바타 알겠지?", "output": "네, 알겠습니다! 명령을 기다리겠습니다."}
+{"instruction": "아바타 알겠어", "output": "네, 알겠습니다! 명령을 기다리겠습니다."}
+{"instruction": "아바타 이해했어?", "output": "네, 이해했습니다!"}
+{"instruction": "아바타 이해했지?", "output": "네, 이해했습니다!"}
+{"instruction": "아바타 이해했어", "output": "네, 이해했습니다!"}
+{"instruction": "아바타 좋아", "output": "감사합니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 좋아!", "output": "감사합니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 좋아요", "output": "감사합니다! 최선을 다하겠습니다."}
+{"instruction": "아바타 수고해", "output": "감사합니다! 열심히 하겠습니다."}
+{"instruction": "아바타 수고해줘", "output": "감사합니다! 열심히 하겠습니다."}
+{"instruction": "아바타 수고해요", "output": "감사합니다! 열심히 하겠습니다."}
+{"instruction": "아바타 잘했어", "output": "감사합니다! 앞으로도 잘 부탁드립니다."}
+{"instruction": "아바타 잘했어!", "output": "감사합니다! 앞으로도 잘 부탁드립니다."}
+{"instruction": "아바타 잘했다", "output": "감사합니다! 앞으로도 잘 부탁드립니다."}
+{"instruction": "아바타 고마워", "output": "감사합니다! 도움이 되어서 기쁩니다."}
+{"instruction": "아바타 고마워!", "output": "감사합니다! 도움이 되어서 기쁩니다."}
+{"instruction": "아바타 고마워요", "output": "감사합니다! 도움이 되어서 기쁩니다."}
+{"instruction": "아바타 고맙다", "output": "감사합니다! 도움이 되어서 기쁩니다."}
+{"instruction": "아바타 고맙습니다", "output": "감사합니다! 도움이 되어서 기쁩니다."}
+{"instruction": "아바타 수고했어", "output": "감사합니다! 함께해서 좋았습니다."}
+{"instruction": "아바타 수고했어!", "output": "감사합니다! 함께해서 좋았습니다."}
+{"instruction": "아바타 수고했다", "output": "감사합니다! 함께해서 좋았습니다."}
+{"instruction": "아바타야 준비해", "output": "네, 준비 완료입니다!"}
+{"instruction": "아바타야 준비해줘", "output": "네, 준비 완료입니다!"}
+{"instruction": "아바타야 준비해줄래", "output": "네, 준비 완료입니다!"}
+{"instruction": "아바타 시작해", "output": "네! 명령을 내려주세요."}
+{"instruction": "아바타 시작해줘", "output": "네! 명령을 내려주세요."}
+{"instruction": "아바타 시작해줄래", "output": "네! 명령을 내려주세요."}
+{"instruction": "아바타 대기해", "output": "네, 대기 상태로 전환합니다."}
+{"instruction": "아바타 대기해줘", "output": "네, 대기 상태로 전환합니다."}
+{"instruction": "아바타 대기해줄래", "output": "네, 대기 상태로 전환합니다."}
+{"instruction": "아바타 조원들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "조원들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "조원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "조원들이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "조원이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 설명", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "조원들 설명", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 설명해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "조원들 설명해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들을 설명해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 조원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 멤버가 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 몇 명이야", "output": "1조의 조원들은 오희민, 이준수, 한찬우로 총 3명입니다."}
+{"instruction": "아바타 조원들 이름 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원 이름 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 이 팀 구성원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 구성원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 구성원들 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 멤버가 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 멤버들 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 누굴까", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원이 누굴까", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 뭐야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 어떻게 돼", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 어떻게 돼?", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들을 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들을 소개해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 소개해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 소개해", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 좀 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 좀 소개해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들 소개해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들 소개해", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 조원들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 조원이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 멤버들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 팀원이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 2조 팀원들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 구성원들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 구성원이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 멤버들이 누구야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 멤버들이 누구지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 이름이 뭐야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들 이름이 뭐지", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들 이름 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 팀원들 이름이 뭐야", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원 몇 명이야", "output": "1조의 조원들은 오희민, 이준수, 한찬우로 총 3명입니다."}
+{"instruction": "아바타 조원이 몇 명이야", "output": "1조의 조원들은 오희민, 이준수, 한찬우로 총 3명입니다."}
+{"instruction": "아바타 팀원이 몇 명이야", "output": "1조의 조원들은 오희민, 이준수, 한찬우로 총 3명입니다."}
+{"instruction": "아바타 팀원 몇 명이야", "output": "1조의 조원들은 오희민, 이준수, 한찬우로 총 3명입니다."}
+{"instruction": "아바타 조원들이 누군지 알려줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 누군지 말해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 조원들이 누군지 설명해줘", "output": "1조의 조원들은 오희민, 이준수, 한찬우입니다."}
+{"instruction": "아바타 오희민이 누구야?", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 누구지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이누구지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 누굴까", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 소개해줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭘 담당해?", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭘 맡았어?", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민이 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민 소개해줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 어떤 역할이야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 역할 알려줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 누구지?", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 누구지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민이 누구지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민이 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 담당하는 게 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 맡은 게 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 하는 일이 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 설명해줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 설명해", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 알려줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민 설명해줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민 알려줘", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 어떤 사람이야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 어떤 사람이지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 역할이 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 역할이 뭐지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 맡은 역할이 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭘 개발했어", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭘 개발했지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 비전 알고리즘 담당이 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 비전 알고리즘 담당이 누구지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 비전 담당이 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 비전 담당자가 누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 소개", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 누구야?", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 누구지?", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 누구지", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 뭐야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 소개해줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 뭘 담당해?", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 뭘 맡았어?", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수가 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수 소개해줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 어떤 역할이야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 역할 알려줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 누구지", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수가 누구지", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수이 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 담당하는 게 뭐야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 맡은 게 뭐야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 하는 일이 뭐야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 설명해줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 설명해", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 알려줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수 설명해줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "이준수 알려줘", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 어떤 사람이야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 역할이 뭐야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 맡은 역할이 뭐야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 뭘 개발했어", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 뭘 개발했지", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 플래닝 알고리즘 담당이 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 플래닝 알고리즘 담당이 누구지", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 플래닝 담당이 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 플래닝 담당자가 누구야", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수 소개", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 이준수가 누굴까", "output": "이준수는 1조의 조원으로 플래닝 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 한찬우가 누구야?", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 누구지", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가누구지", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 소개해줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 뭘 담당해?", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 뭘 맡았어?", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "한찬우가 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "한찬우 소개해줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 어떤 역할이야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 역할 알려줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 누구지", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "한찬우가 누구지", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "한찬우 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 담당하는 게 뭐야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 맡은 게 뭐야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 하는 일이 뭐야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 설명해줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 설명해", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 알려줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "한찬우 설명해줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "한찬우 알려줘", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 어떤 사람이야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 역할이 뭐야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 맡은 역할이 뭐야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 뭘 만들었어", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 뭘 구현했어", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 GUI 담당이 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 GUI 담당이 누구지", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 지유아이 담당이 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 지유아이 담당이 누구지", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 GUI 담당자가 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 지유아이 담당자가 누구야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우 소개", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 누굴까", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 한찬우가 뭐야", "output": "한찬우는 1조의 조원으로 GUI를 구현하였습니다."}
+{"instruction": "아바타 알고리즘 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명 부탁해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 설명 부탁해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 궁금해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘이 궁금해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘이 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 설명해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해봐", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "알고리즘 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "알고리즘 설명해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "알고리즘 설명", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "알고리즘이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "알고리즘이 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘 설명해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 동작 원리 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 동작 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 어떻게 동작해?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템이 어떻게 돌아가?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 원리가 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 pose estimation 알고리즘 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 pose estimation 어떻게 해?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 텔레오퍼레이션 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 시스템 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 시스템 설명해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 시스템 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 어떻게 돼?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 방식이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 방식 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해줄래", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해줄 수 있어?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 좀 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 좀 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해줄 수 있어", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해줄 수 있지?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해줄 수 있지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 좀 알려줄래", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 좀 설명해줄래", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 좀 설명해봐", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 어떻게 돼?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 어떻게 돼", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 어떻게 되는 거야?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 어떻게 되는 거야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘이 어떻게 되는 건지 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘이 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘이 궁금해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘 좀 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 알고리즘 좀 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 동작 원리 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 동작 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 동작 원리가 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 동작 원리가 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템이 어떻게 작동하는 거야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 작동 원리가 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 시스템 작동 방식 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘이 어떻게 돼", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘이 어떻게 돼?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 방식이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 방식 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 원리가 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 좀 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 전체 알고리즘 좀 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 어떻게 돼", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 알려주라", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명해주라", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명 부탁드려", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 설명 부탁드려요", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 궁금해", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 원리 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 원리 알려주라", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 알고리즘 원리가 뭐지", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 pose estimation이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 pose estimation 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 pose estimation 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 텔레오퍼레이션 어떻게 해?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 텔레오퍼레이션 방식 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 텔레오퍼레이션이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 teleoperation 원리 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 teleoperation이 뭐야", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 관절각 어떻게 계산해?", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 관절각 계산 방법 알려줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 관절각 계산 방식 설명해줘", "output": "현재 시스템 알고리즘은, human pose estimation을 통해 각 관절각을 계산하고 이를 로봇팔에 투영하여 teleoperation하는 방식입니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로 할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포즈로", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포즈로 할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 갈게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 초기 위치로 이동할게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치로 갈게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치로 가려고 해", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치로 가려고", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치로 갈래", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 홈 포지션으로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 이동해", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 가줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 가줄래", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 복귀해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 복귀할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 가줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 갈게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 복귀해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 복귀할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 원점으로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 원점으로 갈게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 원점 이동", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 원점으로", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 초기 자세로 이동해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 자세로 복귀해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 자세로 갈게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 자세", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 기본 위치로 갈게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 기본 자세로 갈게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로 이동해", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로 가줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로 복귀해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈 포지션으로 복귀할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈으로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈으로 갈게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 홈으로 복귀해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 원점으로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 원점으로 갈게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 로봇팔 초기 위치로 갈게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 로봇팔 초기 위치로 이동해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 로봇팔 초기 자세로 갈게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 로봇팔 초기 자세로 이동해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 홈 포지션으로 이동할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 가려고", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 가려고 해", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 갈래", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션 이동", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포지션으로 보내줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포즈", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포즈로 갈게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포즈로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포즈로 가줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈 포즈 이동", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 이동해줘", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 이동할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 가려고", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 홈으로 갈래", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 원점으로 이동할게", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 원점으로 가려고", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 원점으로 갈래", "output": "로봇팔을 홈 포지션으로 이동합니다. 모든 관절 각도를 0°로 초기화합니다."}
+{"instruction": "아바타 초기 위치로 이동해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치로 가줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 위치로 가주라", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 자세로 가줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 초기 자세로 이동할게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 기본 위치로 이동해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 기본 위치로 이동할게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 기본 자세로 이동해줘", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 기본 자세로 이동할게", "output": "초기 위치로 이동합니다."}
+{"instruction": "아바타 속도 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 줄일게", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 줄여", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 줄여줄래", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 줄여주라", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 줄여주겠니", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 올릴게", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 올려줄래", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 올려", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 올려주라", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 낮춰줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 낮춰", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 낮춰줄래", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 낮춰주라", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 높여줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 높여", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 높여줄래", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 높여주라", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 더 빠르게 해줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 더 느리게 해줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 빠르게 해줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 느리게 해줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 천천히 해줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 감소시켜줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 증가시켜줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 감소", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 증가", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 이동 속도 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 이동 속도 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 로봇팔 속도 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 로봇팔 속도 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 다운", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 업", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 줄여주겠어?", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 좀 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 좀 줄여", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 좀 낮춰줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 좀 낮춰", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 올려주겠어?", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 좀 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 좀 올려", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 좀 높여줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 좀 높여", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도를 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도를 줄여", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도를 낮춰줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도를 낮춰", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도를 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도를 올려", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도를 높여줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도를 높여", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도를 감소시켜줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도를 증가시켜줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 이동 속도 낮춰줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 이동 속도 높여줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 이동 속도 줄일게", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 이동 속도 올릴게", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 이동 속도를 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 이동 속도를 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 로봇팔 속도 낮춰줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 로봇팔 속도 높여줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 로봇팔 속도 줄일게", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 로봇팔 속도 올릴게", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 로봇팔 속도를 줄여줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 로봇팔 속도를 올려줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 속도 내려줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 내려", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 내릴게", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 더 천천히 해줘", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 더 빨리 해줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 빨리 해줘", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 빠르게 해", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 느리게 해", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 천천히 해", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 줄여줄 수 있어?", "output": "로봇팔 이동 속도를 10퍼센트 감소시킵니다."}
+{"instruction": "아바타 속도 올려줄 수 있어?", "output": "로봇팔 이동 속도를 10퍼센트 증가시킵니다. 주변 안전에 주의해 주세요."}
+{"instruction": "아바타 그리퍼 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 닫아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 닫아줄래", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 닫아주라", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 닫아주겠니", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "그리퍼 닫아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "그리퍼 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "그리퍼 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 열어", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "그리퍼 열어", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 잡아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼로 잡아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 놔줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 놓아줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 클로즈", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 오픈", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 close", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 open", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 집게 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 집게 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 집게 닫아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 집게 열어", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 파지해줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 파지", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 파지 해제해줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 파지 해제", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 물체 잡아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 물체 놔줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 잡아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 놔줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 열어줄래", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "그리퍼 닫아줄래", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "그리퍼 열어줄래", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 닫아줄 수 있어?", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 닫아줄 수 있어", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 좀 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 좀 닫아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼를 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼를 닫아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼를 닫아줄래", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼를 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼를 열어", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼를 열어줄래", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 열어줄 수 있어?", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 좀 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 좀 열어", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "그리퍼를 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "그리퍼를 닫아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "그리퍼를 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "그리퍼를 열어", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 집게를 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 집게를 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 집게 좀 닫아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 집게 좀 열어줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 파지해", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 파지할게", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 파지해줄래", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 파지 해제해", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 파지 해제할게", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 파지를 해제해줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 물체를 잡아줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 물체를 놔줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 물체를 파지해줘", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 물체를 놓아줘", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 잡아", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 놔", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 그리퍼 닫아주겠어?", "output": "그리퍼를 닫아 물체를 파지합니다."}
+{"instruction": "아바타 그리퍼 열어주겠어?", "output": "그리퍼를 열어 물체를 놓습니다."}
+{"instruction": "아바타 비전 노드 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 켜주라", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 켜줄 수 있겠어", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 시작", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 시작할게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 꺼주라", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 꺼줄래", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 꺼줄 수 있겠어", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 활성화해줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 활성화", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 종료해줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 종료", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 실행해줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 실행할게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 멈춰줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 중지해줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 중지", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 카메라 노드 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 노드 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 카메라 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 리얼센스 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 리얼센스 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 depth camera 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 depth camera 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 시작하려고", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 시작해줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 끄려고", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 끄고 싶어", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 켜줄 수 있어?", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 켜줄 수 있어", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 좀 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 좀 켜", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드를 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드를 켜", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드를 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드를 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드를 꺼", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드를 꺼줄래", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 시작할 수 있어?", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 시작해줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 시작해", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 시작해볼게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 켜줬으면 해", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 끄고싶어", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 끄려고 해", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 꺼줄 수 있어?", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 꺼줄 수 있어", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 종료할게", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 종료하려고", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 종료해", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 비전 노드 실행", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 실행하려고", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 실행해", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 실행해볼게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 노드 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 노드 꺼줄래", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 카메라 노드 시작할게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 노드 종료해줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 카메라 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 꺼줄래", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 카메라 시작할게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 카메라 종료해줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 리얼센스 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 리얼센스 꺼줄래", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 리얼센스 시작할게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 리얼센스 카메라 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 리얼센스 카메라 꺼줘", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 depth camera 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 depth camera 꺼줄래", "output": "비전 노드를 종료합니다. Depth camera 스트리밍을 종료합니다."}
+{"instruction": "아바타 depth camera 시작할게", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 플래닝 노드 켜줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 켜주라", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 켜줄래", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 켜줄 수 있겠어", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 시작", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 시작하려고", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 시작해볼게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 시작해줄래", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 시작할게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 활성화해줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 활성화", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 실행해줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 실행할게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 꺼줘", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 종료해줘", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 종료", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 멈춰줘", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 중지해줘", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 중지", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 꺼주라", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 꺼줄래", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 텔레오퍼레이션 노드 켜줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 텔레오퍼레이션 시작할게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 텔레오퍼레이션 시작해줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 teleoperation 시작할게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 원격 조작 시작할게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 원격 조작 노드 켜줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 켜줄 수 있어?", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 켜줄 수 있어", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 좀 켜줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 좀 켜", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드를 켜줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드를 켜", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드를 켜줄래", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드를 꺼줘", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드를 꺼", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드를 꺼줄래", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 시작해줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 시작해", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 실행", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 실행하려고", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 실행해", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 실행해볼게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 플래닝 노드 종료할게", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 종료하려고", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 종료해", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 꺼줄 수 있어?", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 꺼줄 수 있어", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 끄려고", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 플래닝 노드 끄고 싶어", "output": "플래닝 노드를 종료합니다."}
+{"instruction": "아바타 텔레오퍼레이션 노드 켜줄래", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 텔레오퍼레이션 노드 시작할게", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 텔레오퍼레이션 시작해", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 텔레오퍼레이션 시작하려고", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 teleoperation 시작해줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 teleoperation 시작해", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 원격 조작 시작해줘", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 원격 조작 시작해", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 원격 조작 노드 켜줄래", "output": "플래닝 노드를 활성화합니다. 텔레오퍼레이션 모드 시작"}
+{"instruction": "아바타 가반하중평가 시작할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 켜줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 켜줄래", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 시작", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 해볼게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 시작할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 켜줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 시작", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 해볼게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 켜줄래", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 payload 평가 시작할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 payload 평가 시작", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 노드 켜줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 노드 시작할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 노드 시작", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 해줄래", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 시작해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 시작해", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 시작해볼게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 시작하려고", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 해", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 해줄 수 있어?", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 켜줄 수 있어?", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 켜주라", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 실행해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 실행할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 실행", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 시작해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 시작해", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 해", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 실행해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 실행할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 켜주라", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중 평가 해줄래", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 payload 평가 켜줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 payload 평가 해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 payload 평가 실행할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 노드 켜줄래", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 노드 시작해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 노드 실행해줘", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 응답성 평가 시작할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 시작하려고", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 시작해볼게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 시작", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 시작할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 시작", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 켜줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 켜줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 해볼게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 해볼게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 켜줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 시작", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 시작할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 켜줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 시작", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 켜줄래", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 켜줄래", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 켜줄래", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 시작해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 시작해", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 해", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 해줄래", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 실행해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 실행할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 실행", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 켜주라", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성 평가 켜줄 수 있어?", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 시작해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 시작해", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 해", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 해줄래", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 실행해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 실행할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 실행", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 응답성평가 켜주라", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 켜주라", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 켜줄 수 있겠어", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 시작해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 시작해", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 시작해볼게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 시작하려고", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 실행해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 실행할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 실행", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 활성화해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 클락 노드 활성화", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 켜줄래", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 켜주라", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 시작할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 시작해줘", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 clock 노드 실행할게", "output": "넵 알겠습니다. 클락 노드를 시작합니다"}
+{"instruction": "아바타 지유아이 시작해", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작해", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작해줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작할게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작할게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작하려고", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작하려고", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작할게요", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 켜줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 켜줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행해줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행할게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행해줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행할게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 열어줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 열어줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작해볼게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작해볼게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 켜줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 켜줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작해줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작할게요", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 켜주라", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 켜주라", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 켜줄 수 있어?", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 켜줄 수 있어?", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행하려고", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행하려고", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행해볼게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행해볼게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행해", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행해", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 열어줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 열어줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 열어주라", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 열어주라", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 띄워줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 띄워줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 띄워", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 띄워", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 실행해줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 실행해줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작해줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작해줄래", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작해주라", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 시작해주라", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 모든 관절 홈으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포즈로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포즈", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈으로 가게 해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈으로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈 포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈으로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 관절 전체 홈으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 초기화", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 초기화", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 관절 모두 홈으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 원점으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포지션으로 이동해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포지션으로 복귀해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포지션으로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포지션으로 이동할게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈으로 이동해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈으로 이동할게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포즈로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 홈 포즈로 이동해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 원점으로 이동해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 원점으로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈으로 이동해줘", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈으로 이동할게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈 포즈로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 홈 포즈로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 원점으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 원점으로 갈게", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 관절 전체 홈 포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 관절 전체 원점으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 관절 모두 홈 포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 관절 모두 원점으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 초기 위치로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 초기 위치로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든 관절 초기 자세로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체 관절 초기 자세로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 로봇팔 비상 정지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 중지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 비상 중지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 비상 중지해줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 비상 중지할게", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 정지해줘", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 정지할게", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 정지", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 정지하려고", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 정지해줄래", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 비상 정지해줘", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 비상 정지", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 멈춰줘", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 멈춰", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 멈춰줄래", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 스톱", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 stop", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 중지해줘", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 중지할게", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 중지", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 로봇팔 멈춰줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 멈춰", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 정지해줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 정지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 긴급 정지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 긴급 중지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 emergency stop", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 e-stop", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 정지야", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 멈춰야", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 로봇팔 세워줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 세워", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 정지해", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 정지해줄 수 있어?", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 좀 정지해줘", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 일단 정지", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 일단 멈춰", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 잠깐 정지", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 잠깐 멈춰", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 멈춰줄 수 있어?", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 멈춰봐", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 중지해", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 중지해줄래", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 중지해줄 수 있어?", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 비상 정지할게", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 비상 정지해", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 비상 정지해줄래", "output": "시연을 일시 중지합니다. 로봇팔을 현재 위치에서 정지시킵니다."}
+{"instruction": "아바타 로봇팔 비상 정지해줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 비상 정지할게", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 비상 정지해", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 정지할게", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 중지해줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 중지할게", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 멈춰줄래", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 로봇팔 세워줄래", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 긴급 정지해줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 긴급 정지할게", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 긴급 중지해줘", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 긴급 중지할게", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 즉시 정지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 즉시 중지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 즉시 멈춰", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 지금 당장 멈춰", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 지금 당장 정지", "output": "비상 정지! 모든 관절 동작을 즉시 중단합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록이 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록이 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록이 뭘까", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록 알려주라", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록 알려줄래", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 목록이 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 목록 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드가 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 노드 실행 가능해?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 노드 켤 수 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 종류 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 사용 가능한 노드 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 기능 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 뭘 할 수 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 기능 목록 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 가능한 기능이 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 노드들 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 뭐뭐 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록이 어떻게 돼?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드 목록 좀 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드들이 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드들이 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 실행 가능한 노드들 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 목록이 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 목록 알려주라", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 목록 좀 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 목록이 어떻게 돼?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 노드가 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 노드가 있지?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 노드들이 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 종류가 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 종류가 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 노드 종류 알려주라", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 사용 가능한 노드가 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 사용 가능한 노드가 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 사용 가능한 노드 알려주라", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 기능이 있어?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 어떤 기능이 있지?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 기능 목록이 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 기능 목록이 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 기능 목록 알려주라", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 기능이 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 기능이 뭐지", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 할 수 있는 거 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 할 수 있는 것들 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 할 수 있는 게 뭐야?", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 오희민이  누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이  누구지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민   누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "오희민이  누구야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 뭐하는 사람이야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 뭐하는 사람이지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭐 담당이야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 뭐 담당이지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 담당이 뭐야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 담당이 뭐지", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 무슨 일 해", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 무슨 일 했어", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 무슨 알고리즘 만들었어", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민 어떤 알고리즘 담당이야", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 오희민이 어떤 알고리즘 만들었어", "output": "오희민은 1조의 조원으로 비전 알고리즘을 개발하였습니다."}
+{"instruction": "아바타 가반하중평가  시작할게", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 가반하중평가 실행해", "output": "넵 알겠습니다. 가반하중평가 노드 시작합니다. 워크스페이스를 제거해주세요."}
+{"instruction": "아바타 지유아이 시작해줘요", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 시작 할게", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 켜", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 켜", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 지유아이 올려줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 GUI 올려줘", "output": "시스템을 시작합니다. 모든 노드를 초기화하겠습니다."}
+{"instruction": "아바타 비전 노드 좀 켜줄래", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 좀 켜주라", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 좀 시작해줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 좀 실행해줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 켜주겠어?", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 제발 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 비전 노드 빨리 켜줘", "output": "비전 노드를 활성화합니다. 리얼센스 카메라 스트리밍 및 각도계산 시작."}
+{"instruction": "아바타 현재 실행 가능 노드 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 현재 실행 가능한 노드 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 현재 실행 가능 노드가 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 현재 실행 가능한 노드가 뭐야", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 현재 어떤 노드 실행 가능해", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 현재 어떤 노드 켤 수 있어", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 지금 실행 가능한 노드 알려줘", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 지금 어떤 노드 켤 수 있어", "output": "현재 플래닝 노드, 클락 노드, 비전 노드 등이 실행 가능합니다."}
+{"instruction": "아바타 전체관절 홈포즈로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체관절 홈 포즈로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체관절 홈포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체관절 홈 포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체관절 홈으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든관절 홈으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든관절 홈 포즈로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든관절 홈포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든관절 홈 포지션으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체관절 초기화", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든관절 초기화", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 전체관절 원점으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}
+{"instruction": "아바타 모든관절 원점으로", "output": "모든 관절을 홈 포지션으로 이동합니다."}

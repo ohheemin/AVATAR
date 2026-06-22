@@ -1,0 +1,14 @@
+build/
+install/
+log/
+*.safetensors
+*.gguf
+avatar_lora/
+avatar_merged/
+avatar_model/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+unsloth_compiled_cache/
+ema/
