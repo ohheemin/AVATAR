@@ -6,18 +6,7 @@
 
 ---
 
-## 주요 기능
-
-- **실시간 포즈 추정**: MediaPipe를 활용한 고정확도 인체 포즈 감지
-- **자동 포즈 매핑**: 인간 팔의 각도를 로봇팔 관절각으로 실시간 변환
-- **멀티 카메라 지원**: Intel RealSense D435i를 통한 RGB-D 입력
-- **직관적 제어**: 사람의 자연스러운 팔 움직임으로 로봇 제어
-- **시뮬레이션 환경**: Isaac Sim에서 검증 및 디버깅 가능
-- **상태 모니터링**: 실시간 포즈 데이터 및 로봇 상태 시각화
-
----
-
-## 스택
+## Stack
 
 ### Core Technologies
 - **로보틱스**: ROS2 Humble, MoveIt2
@@ -33,9 +22,9 @@
 
 ---
 
-## 요구사항
+## PC Requirement
 
-### 시스템 요구사항
+### OS
 ```
 OS: Ubuntu 22.04 LTS
 Python: 3.10 이상
@@ -44,8 +33,8 @@ ROS2: Humble
 GPU: NVIDIA (권장) - CUDA 11.8+
 ```
 
-### 하드웨어 요구사항
-- Techman TM12 로봇팔 또는 호환 로봇
+### Hardware
+- Dynamixel XM, XL
 - Intel RealSense D435i 또는 D455
 - 로봇 제어용 PC (권장: i7 이상)
 
@@ -61,9 +50,9 @@ pyrealsense2 >= 2.54.0
 
 ---
 
-## 설치 및 실행
+## Installation
 
-### ROS2 Humble 설치
+### ROS2 Humble Installation
 ```bash
 # ROS2 공식 설치 가이드 참고
 # https://docs.ros.org/en/humble/Installation.html
@@ -71,7 +60,7 @@ pyrealsense2 >= 2.54.0
 source /opt/ros/humble/setup.bash
 ```
 
-### 워크스페이스 설정
+### Builing Your Workspace
 ```bash
 # 저장소 클론
 git clone https://github.com/ohheemin/AVATAR.git
@@ -86,9 +75,9 @@ source install/setup.bash
 ```
 ---
 
-## 사용 방법
+## How to
 
-### 기본 텔레오퍼레이션 플로우
+### Pipeline
 
 1. **카메라 연결**
    - Intel RealSense 카메라를 USB 포트에 연결
@@ -107,7 +96,7 @@ source install/setup.bash
    - 피드백을 통한 제어 안정화
 ---
 
-## 주요 구성 요소
+## Function
 
 ### Pose Estimator (포즈 추정)
 ```python
@@ -115,10 +104,10 @@ source install/setup.bash
 # 입력: RGB 이미지 (640x480)
 # 출력: 손목(wrist), 팔꿈치(elbow), 어깨(shoulder) 3D 좌표
 ```
-``
+
 ---
 
-## 트러블슈팅
+## Trouble Shooting
 
 ### 카메라 연결 안 됨
 ```bash
@@ -132,7 +121,7 @@ cat /etc/udev/rules.d/99-realsense-libusb.rules
 ros2 service call /camera/reset std_srvs/srv/Empty
 ```
 
-### 포즈 추정 오류율 높음
+### Pose-Estimation Error
 - 조명 개선 (밝은 환경 필요)
 - 카메라 클리닝
 - MediaPipe 신뢰도 임계값 조정 (config/mediapipe.yaml)
@@ -145,7 +134,7 @@ ros2 service call /camera/reset std_srvs/srv/Empty
 
 ---
 
-## 조원
+## Team Avatar
 
 | 이름 | 역할 |
 |------|------|
@@ -155,7 +144,7 @@ ros2 service call /camera/reset std_srvs/srv/Empty
 
 ---
 
-## 링크
+## Link
 
 - **GitHub Repository**: https://github.com/ohheemin/AVATAR
 - **Issues & Bug Reports**: [GitHub Issues](https://github.com/ohheemin/AVATAR/issues)
