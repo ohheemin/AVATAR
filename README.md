@@ -104,8 +104,7 @@ source install/setup.bash
 # 입력: RGB 이미지 (640x480)
 # 출력: 손목(wrist), 팔꿈치(elbow), 어깨(shoulder) 3D 좌표
 ```
-ipe 신뢰도 임계값 조정 (config/mediapipe.yaml)
-- 
+ 
 ---
 
 ## Team Avatar
