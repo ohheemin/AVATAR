@@ -104,34 +104,8 @@ source install/setup.bash
 # 입력: RGB 이미지 (640x480)
 # 출력: 손목(wrist), 팔꿈치(elbow), 어깨(shoulder) 3D 좌표
 ```
-
----
-
-## Trouble Shooting
-
-### 카메라 연결 안 됨
-```bash
-# 권한 확인
-ls -la /dev/video*
-
-# udev 규칙 확인
-cat /etc/udev/rules.d/99-realsense-libusb.rules
-
-# 카메라 리셋
-ros2 service call /camera/reset std_srvs/srv/Empty
-```
-
-### Pose-Estimation Error
-- 조명 개선 (밝은 환경 필요)
-- 카메라 클리닝
-- MediaPipe 신뢰도 임계값 조정 (config/mediapipe.yaml)
-
-### 로봇 응답 지연
-```bash
-# ROS2 QoS 설정 확인
-# config/qos.yaml 에서 지연시간 최적화
-```
-
+ipe 신뢰도 임계값 조정 (config/mediapipe.yaml)
+- 
 ---
 
 ## Team Avatar
