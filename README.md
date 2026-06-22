@@ -158,13 +158,13 @@ ros2 service call /camera/reset std_srvs/srv/Empty
 
 | 이름 | 역할 |
 |------|------|
-| **오희민** | 시스템 아키텍처, ROS2 통합, 시뮬레이션 |
-| **이준수** | 포즈 추정, MediaPipe 최적화 |
-| **한찬우** | 로봇 제어, 하드웨어 통합 |
+| **오희민** | Vision,LLM |
+| **이준수** | Planning |
+| **한찬우** | GUI, Hardware |
 
 ---
 
-## 🔗 링크
+## 링크
 
 - **GitHub Repository**: https://github.com/ohheemin/AVATAR
 - **Issues & Bug Reports**: [GitHub Issues](https://github.com/ohheemin/AVATAR/issues)
