@@ -4,7 +4,7 @@
 
 실시간 인체 포즈 추정 기술을 이용하여 사람의 팔 움직임을 감지하고, 이를 로봇팔의 관절 각도로 변환하여 직관적인 텔레오퍼레이션을 구현합니다.
 
-<img width="500" height="500" alt="트랙별 종합설계 프로젝트 1조  아바타" src="https://github.com/user-attachments/assets/db0cc444-f416-47cc-8bf0-ddf86c8655f3" />
+<img width="300" height="300" alt="트랙별 종합설계 프로젝트 1조  아바타" src="https://github.com/user-attachments/assets/db0cc444-f416-47cc-8bf0-ddf86c8655f3" />
 
 
 ## Stack
