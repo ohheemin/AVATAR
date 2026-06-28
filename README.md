@@ -10,16 +10,16 @@
 ## Stack
 
 ### Core Technologies
-- **로보틱스**: ROS2 Humble, MoveIt2
-- **포즈 추정**: MediaPipe, MarkerlessHuman Pose Estimation
-- **센서**: Intel RealSense D435i
-- **모터 제어**: Dynamixel (XM430-W350, XL430-W250)
+- **Robotics**: ROS2 Humble, MoveIt2
+- **Pose Estimation**: MediaPipe, MarkerlessHuman Pose Estimation
+- **Sensor**: Intel RealSense D435i
+- **Motor**: Dynamixel (XM430-W350, XL430-W250)
 
 ### Software Stack
-- **언어**: Python 3.10+
+- **Language**: Python 3.10+
 - **OS**: Ubuntu 22.04 LTS
-- **프레임워크**: PyTorch, TensorFlow
-- **시각화**: OpenCV, RViz2
+- **API**: PyTorch, TensorFlow
+- **Visualization**: OpenCV, RViz2
 
 ---
 
@@ -39,7 +39,7 @@ GPU: NVIDIA (권장) - CUDA 11.8+
 - Intel RealSense D435i 또는 D455
 - 로봇 제어용 PC (권장: i7 이상)
 
-### 주요 Python 패키지
+### Main Python Package
 ```
 mediapipe >= 0.10.0
 opencv-python >= 4.8.0
@@ -80,19 +80,19 @@ source install/setup.bash
 
 ### Pipeline
 
-1. **카메라 연결**
+1. **D435I Connect**
    - Intel RealSense 카메라를 USB 포트에 연결
    - `ros2 run avatar camera_node`로 카메라 노드 실행
 
-2. **포즈 추정 시작**
+2. **Pose Estimation**
    - MediaPipe가 실시간으로 팔 관절 좌표 추출
    - 3D 포즈 데이터를 ROS 토픽으로 발행
 
-3. **포즈 매핑**
+3. **Pose Mapping**
    - 인간 팔의 각도를 로봇팔 좌표계로 변환
    - IK(역기구학) 계산으로 관절각 도출
 
-4. **로봇 제어**
+4. **Manipulator Control**
    - 계산된 관절각을 로봇에 명령
    - 피드백을 통한 제어 안정화
 ---
