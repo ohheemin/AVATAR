@@ -81,6 +81,7 @@ source install/setup.bash
 ### Pipeline
 
 1. **D435I Connect**
+   - GUI를 통한 Vision node 실행
    - Intel RealSense 카메라를 USB 포트에 연결
    - `ros2 run avatar camera_node`로 카메라 노드 실행
 
@@ -89,6 +90,7 @@ source install/setup.bash
    - 3D 포즈 데이터를 ROS 토픽으로 발행
 
 3. **Pose Mapping**
+   - GUI를 통한 Planning node 실행 및 초기자세 안내
    - 인간 팔의 각도를 로봇팔 좌표계로 변환
    - IK(역기구학) 계산으로 관절각 도출
 
