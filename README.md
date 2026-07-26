@@ -83,7 +83,7 @@ source install/setup.bash
 1. **D435I Connect**
    - GUI를 통한 Vision node 실행
    - Intel RealSense 카메라를 USB 포트에 연결
-   - `ros2 run avatar camera_node`로 카메라 노드 실행
+   - `ros2 run avatar vision_nav.py`로 카메라 노드 실행
 
 2. **Pose Estimation**
    - MediaPipe가 실시간으로 팔 관절 좌표 추출
